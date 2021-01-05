@@ -32,3 +32,5 @@ While this can already be done using the page-id, this method allows you to spec
 Sometimes, submitting a Gravity Form refreshes the page. If your form is below the fold, a user would have to scroll down to see the submission message.
 This code snippet makes the page scroll down to that submission message automatically upon form submission.
 
+# Custom Post Types in Archives
+This code snippet will include custom post types in the archives for default tags and categories as well.
